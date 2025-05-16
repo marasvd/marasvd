@@ -75,9 +75,8 @@
 </div>
 
 <br>
-<a href="https://www.linkedin.com/in/mar%C3%ADa-paz-saavedra-374626223/a447-11eb-908a-139a6edae5c.gif" style="display: inline-flex; align-items: center; background-color: #0a66c2; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
-  <img src="https://content.linkedin.com/content/dam/platform/site/v2/bg/logos/linkedIn-Blue-1440x1440.png" alt="LinkedIn" style="height: 20px; margin-right: 5px;">
-  LINKEDIN
+<a href="https://www.linkedin.com/in/mar%C3%ADa-paz-saavedra-374626223/a447-11eb-908a-139a6edae5c.gif">
+  Visitar mi LinkedIn
 </a>
 <br>
 <br>
