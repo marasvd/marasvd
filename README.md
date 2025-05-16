@@ -15,8 +15,8 @@
 <br>
 
 - Apasionada por la programacion y el aprendizaje
-- Siempre estoy abierta a escuchar y un buen consej
-- Estoy abierto a una pasantía o a una nueva oportunidad laboral
+- Siempre estoy abierta a escuchar y un buen consejo
+- Estoy abierto a una pasantía o a cualquier oportunidad de aprender cosas nuevas
 
 <br><br>
 
