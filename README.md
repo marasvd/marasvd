@@ -76,7 +76,7 @@
 
 <br>
 <a href="https://www.linkedin.com/in/mar%C3%ADa-paz-saavedra-374626223/a447-11eb-908a-139a6edae5c.gif">
-  Visitar mi LinkedIn
+  <img src="https://www.linkedin.com/in/mar%C3%ADa-paz-saavedra-374626223/a447-11eb-908a-139a6edae5c.gif" alt="Mi perfil de LinkedIn">
 </a>
 <br>
 <br>
