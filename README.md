@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
 	
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=120&lines=Estudiante+de+Sistemas,+,Apasionada+por+la+tecnología"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=120&lines=Estudiante+de+Sistemas,+Apasionada+por+la+tecnología"></a>
 
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 
 - Apasionada por la programacion y el aprendizaje
-- Actualmente soy estudiante de ingenieria de sistemas
+- Siempre estoy abierta a escuchar y un buen consej
 - Estoy abierto a una pasantía o a una nueva oportunidad laboral
 
 <br><br>
